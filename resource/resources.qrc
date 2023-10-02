@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="Navigation.qml">qml/Navigation.qml</file>
+        <file alias="Search.qml">qml/Search.qml</file>
+        <file alias="Default.qml">qml/Default.qml</file>
+        <file alias="Analyse.qml">qml/Analyse.qml</file>
+        <file alias="ViewHeader.qml">qml/ViewHeader.qml</file>
+        <file alias="AppButton.qml">qml/AppButton.qml</file>
+        <file alias="Textbox.qml">qml/Textbox.qml</file>
+        <file alias="Lightbox.qml">qml/Lightbox.qml</file>
+        <file alias="SearchSettings.qml">qml/SearchSettings.qml</file>
+        <file alias="SettingHeader.qml">qml/SettingHeader.qml</file>
+        <file alias="DynamicWaffle.qml">qml/DynamicWaffle.qml</file>
+        <file alias="AnalyseTooltip.qml">qml/AnalyseTooltip.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="logo.svg">img/logo.svg</file>
+        <file alias="nav_analyse.svg">img/nav_analyse.svg</file>
+        <file alias="nav_search.svg">img/nav_search.svg</file>
+        <file alias="search_field.svg">img/search_field.svg</file>
+        <file alias="settings_cog.svg">img/settings_cog.svg</file>
+        <file alias="close_icon.svg">img/close_icon.svg</file>
+        <file alias="file_stack.svg">img/file_stack.svg</file>
+        <file alias="window_close.svg">img/window_close.svg</file>
+        <file alias="ninja_home.png">img/ninja_home.png</file>
+        <file alias="ninja_text_home.png">img/ninja_text_home.png</file>
+    </qresource>
+</RCC>
