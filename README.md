@@ -30,7 +30,7 @@ brew install qt@5 cmake
 
 ``` bash
 git clone https://github.com/jprojt/file_ninja.git
-cd final
+cd file_ninja
 git submodule init
 git submodule update --recursive
 ```
